@@ -2,6 +2,7 @@ from flask import Flask, render_template , redirect, url_for, request
 
 app = Flask(__name__)
 
+#route
 @app.route("/", methods=["GET"] )
 @app.route("/index", methods=["GET"] )
 def index():
