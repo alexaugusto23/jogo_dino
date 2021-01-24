@@ -1,7 +1,7 @@
-# jogo_dino
-Jogo Dinossauro Google desenvolvido com a mentoria de  Celso Henrique.
+# Running With Mario
+Jogo do Dinossauro(T-rex game), desenvolvido com a mentoria de  Celso Henrique. Realizado modificações para criar o novo jogo running With Mario.
 
-Link do jogo: https://jogo-dino.azurewebsites.net
+Link do jogo: https://mario-game.azurewebsites.net
 
 Propostas de Melhorias: 
 
